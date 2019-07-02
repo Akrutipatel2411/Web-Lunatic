@@ -1,115 +1,121 @@
-body,html
-{
+body,
+html {
     width: 100%;
     height: 100%;
     margin: 0;
-    
+
 }
-*
-{
+
+* {
     box-sizing: border-box;
 }
-ul,li{
+
+ul,
+li {
     margin: 0;
     padding: 0;
-    list-style:none;
+    list-style: none;
 }
-h1,h2,h3,h4,h5,h6
-{
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     margin: 0px;
     padding: 0;
     color: #22233b;
     line-height: 1.2em;
-    
+
 }
-.container
-{
-    width: 80%;
+
+.container {
+    width: 90%;
     padding: 0px 15px;
     margin: auto;
     font-family: sans-serif;
 }
-.main-header
-{
+
+.main-header {
     width: 100%;
     background-image: url(../images/header-bg-1.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
-    
+
 }
-.nevigation
-{
+
+.nevigation {
     width: 100%;
     overflow: auto;
     padding: 15px;
 }
-.luna-logo
-{
+
+.luna-logo {
     float: left;
     width: 15%;
     padding: 15px 15px;
 }
-.menubar
-{
+
+.menubar {
     float: left;
     width: 65%;
     padding: 15px;
-    
+
 }
-.menu-items
-{
+
+.menu-items {
     list-style: none;
     display: inline-block;
     padding: 10px 10px;
     text-align: center;
 }
-.menu-anchor
-{
+
+.menu-anchor {
     text-decoration: none;
     display: inline-block;
     color: #56576e;
     font-size: 16px;
     font-weight: 600;
 }
-.free-btn
-{
+
+.free-btn {
     width: 20%;
     float: right;
     padding: 15px;
 }
-.free-anchor
-{
+
+.free-anchor {
     text-decoration: none;
     color: #6858db;
     padding: 10px 30px;
     display: inline-block;
     text-align: center;
 }
-.head-text
-{
+
+.head-text {
     width: 65%;
     padding: 30px 20px
-    
 }
-.head-h5
-{
+
+.head-h5 {
     color: #ff867a;
     font-family: 'Muli', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6em;
 }
-.head-h1
-{
+
+.head-h1 {
     font-size: 48px;
     font-weight: 700;
     font-family: sans-serif;
     color: #22233b;
     line-height: 1.5em;
 }
-.head-pera
-{
+
+.head-pera {
     color: #56576e;
     font-family: 'Muli', sans-serif;
     font-weight: 400;
@@ -117,12 +123,12 @@ h1,h2,h3,h4,h5,h6
     padding-right: 100px;
     line-height: 1.6em;
 }
-.appstore
-{
+
+.appstore {
     margin-top: 80px;
 }
-.app-btn
-{
+
+.app-btn {
     text-decoration: none;
     background-color: #22233b;
     color: white;
@@ -131,187 +137,216 @@ h1,h2,h3,h4,h5,h6
     color: white;
     display: inline-block;
     margin-right: 15px;
-    
+
 }
-.app-img
-{
+
+.app-img {
     display: inline-block;
-    padding-left:50px;
+    padding-left: 50px;
     position: relative;
-   font-family: 'Muli', sans-serif; 
-    
-    
+    font-family: 'Muli', sans-serif;
+
+
 }
-.store-icon
-{
+
+.store-icon {
     position: absolute;
     top: 5px;
     left: 0;
     width: 30%;
-    
-    
-    
+
+
+
 }
-.app-h6
-{
+
+.app-h6 {
     color: inherit;
     font-size: 12px;
     line-height: 2em;
     font-family: inherit;
     font-weight: lighter;
-    
-    
+
+
 }
-.app-h4
-{
+
+.app-h4 {
     color: inherit;
     font-size: 16px;
     font-family: inherit;
     font-weight: bolder;
 }
-.reason-sec
-{
+
+.reason-sec {
     width: 100%;
     background-color: white;
     padding-top: 120px;
 }
-.heading-luna
-{
+
+.heading-luna {
     width: 60%;
     margin: auto;
     padding-bottom: 40px;
 }
-.luna-h3
-{
+
+.luna-h3 {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
-    
+
 }
-.reason-cont
-{
+
+.reason-cont {
     width: 100%;
     background-color: inherit;
     overflow: auto;
     padding: 15px 15px;
-    
+
 }
-.reason-parent
-{
+
+.reason-parent {
     padding: 15px 15px;
     width: 33.33%;
     float: left;
 }
-.reason-card
-{
+
+.reason-card {
     width: 100%;
-   
-    box-shadow:      0 0 20px -10px #c9c9c9;
+
+    box-shadow: 0 0 20px -10px #c9c9c9;
     border-radius: 6px;
     padding: 60px 20px;
     color: #56576e;
     text-align: center;
 }
-.ser-icon
-{
+
+.ser-icon {
     background-color: #f6f6f9;
     border-radius: 6px;
     margin: auto auto 40px auto;
     height: 70px;
     width: 70px;
     padding: 10px;
-    
-    
+
+
 }
-.ser-txt
-{
+
+.ser-txt {
     line-height: 1.6em;
     text-transform: capitalize;
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 10px;
-    
+
 }
-.ser-pera
-{
+
+.ser-pera {
     font-weight: 300;
     line-height: 1.6em;
-    font-family: 'muli' , sans-serif;
+    font-family: 'muli', sans-serif;
     color: inherit;
     font-size: 16px;
     margin-bottom: 10px;
-    
-/*    padding: 0px 30px 20px 30px;*/
+
+    /*    padding: 0px 30px 20px 30px;*/
 }
-.social-section
-{
+
+.social-section {
     width: 100%;
     padding-top: 80px;
     background-color: white;
-    background-size: auto 70%;
+
 }
-.soc
-{
+
+.soc {
     overflow: auto;
 }
-.soc-mob
-{
+
+.soc-mob {
     float: left;
     width: 50%;
-    padding: 15px;
+    padding: 10px;
 }
-.soc-cont
-{
+
+.soc-cont {
     float: left;
-    width: 41.66%;
+    width: 45%;
     padding: 0px 15px;
-    margin-left: 5.33%;
+    margin-left: 5%;
+    overflow: auto;
 }
-.soc-img
-{
+
+.soc-img {
     width: 30%;
     margin-bottom: 30px;
 }
-.soc-h3
-{
+
+.soc-h3 {
     font-size: 30px;
     font-weight: 700;
     color: #22233b;
     margin-bottom: 15px;
     line-height: 1.4em;
 }
-.soc-list
-{
+
+.soc-list {
     margin-top: 50px;
 }
-.soc-items
-{
+
+.soc-items {
     display: inline-block;
     padding: 20px;
     margin-right: 20px;
-    box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     min-width: 125px;
     border-radius: 6px;
     text-align: center;
 }
-.soc-item-upr
-{
+
+.soc-item-upr {
     color: #f9748e;
     font-weight: 700;
     font-size: 20px;
     margin-bottom: 10px;
-    
+
 }
-.soc-span
-{
+
+.soc-span {
     color: inherit;
     font-weight: inherit;
     font-size: inherit;
 }
-.soc-user
-{
+
+.soc-user {
     color: #56576e;
     font-size: 18px;
 
 }
 
+.video-section {
+    width: 100%;
+    background-color: white;
+    padding-top: 100px;
+}
+
+.video-img {
+    width: 65%;
+    height: 560px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+    background-image: url(../images/video-img.jpg);
+    background-position: 50%;
+    background-size: cover;
+    border-radius: 6px;
+    position: relative;
+}
+
+.play-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    
+
+}
