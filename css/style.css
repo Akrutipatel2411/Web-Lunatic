@@ -651,7 +651,27 @@ h6 {
     float: left;
     
 }
-.question-section
+.que-ans
 {
+    width: 50%;
+    float: left;
+    padding: 10px 15px;
     
 }
+.que-ans-card
+{
+    width: 100%;
+    padding: 30px;
+    border-radius: 6px;
+    background-color: rgba(236, 234, 251, 0.3);
+     margin-bottom: 20px;
+}
+.qua-text
+{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'muli' , sans-serif;
+    text-align: left;
+    
+}
+
