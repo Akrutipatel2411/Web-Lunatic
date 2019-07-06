@@ -125,7 +125,7 @@ h6 {
 }
 
 .appstore {
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 .app-btn {
@@ -240,7 +240,7 @@ h6 {
 }
 
 .ser-pera {
-    font-weight: 300;
+    font-weight: 400;
     line-height: 1.6em;
     font-family: 'muli', sans-serif;
     color: #56576e;
@@ -350,132 +350,133 @@ h6 {
     right: 0;
     margin: auto;
 }
-.feature-section
-{
+
+.feature-section {
     width: 100%;
     padding-top: 80px;
     background-color: white;
 }
-.fea-cont
-{
+
+.fea-cont {
     padding: 0px 15px;
     margin: auto;
 }
-.typo
-{
-    font-family: 'muli' , sans-serif;
+
+.typo {
+    font-family: 'muli', sans-serif;
 }
-.feature-cool
-{
+
+.feature-cool {
     width: 100%;
     overflow: auto;
-    
-    
+
+
 }
-.cool-one
-{
+
+.cool-one {
     width: 25%;
     float: left;
     padding: 20px 20px;
 }
-.one-fea
-{
+
+.one-fea {
     width: 100%;
     padding: 40px 30px;
-    
+
     border-radius: 6px;
-    box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
-    
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+
 }
-.mar
-{
+
+.mar {
     margin-top: 20px;
 }
-.fea-img
-{
+
+.fea-img {
     text-align: center;
     padding: 10px;
     height: 130px;
     width: 100px;
     margin: auto;
 }
-.fea-h4
-{
+
+.fea-h4 {
     color: #22233b;
     font-size: 22px;
     font-weight: 700;
-    font-family: 'muli' , sans-serif;
+    font-family: 'muli', sans-serif;
     text-align: center;
     margin-bottom: 15px;
 }
-.screen-section
-{
+
+.screen-section {
     width: 100%;
     padding-top: 80px;
     position: relative;
-      
+
 }
-.over
-{
+
+.over {
     overflow: auto;
-  
+
 }
-.arrow
-{
+
+.arrow {
     float: left;
     width: 6%;
     left: 10px;
     top: 500px;
     position: absolute;
 }
-.arrow-icon
-{
+
+.arrow-icon {
     padding: 15px;
-    
+
 }
-.screen
-{
+
+.screen {
     width: 94%;
     float: right;
     padding: 10px;
     overflow: auto;
 }
-.screen-set
-{
+
+.screen-set {
     width: 300px;
     float: left;
 }
-.screen-img
-{
+
+.screen-img {
     margin: 30px 10px;
     border-radius: 6px;
-    box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
 }
-.price-section
-{
+
+.price-section {
     width: 100%;
     background-color: white;
     padding-top: 80px;
 }
-.price-cards
-{
+
+.price-cards {
     width: 100%;
     margin: 0 auto;
     padding: 15px;
     overflow: auto;
-    
+
 }
-.price-card
-{
+
+.price-card {
     width: 33.33%;
     float: left;
-    font-family: 'muli',sans-serif;
+    font-family: 'muli', sans-serif;
     font-size: 16px;
     color: #56576e;
     padding: 10px;
-     
+
 }
-.card1{
+
+.card1 {
     width: 100%;
     padding: 50px;
     border-radius: 6px;
@@ -483,31 +484,31 @@ h6 {
     background-size: auto;
     background-position: right top;
     background-repeat: no-repeat;
-    box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
-.price-icon
-{
+
+.price-icon {
     height: 70px;
     text-align: center;
 }
-.price-list
-{
+
+.price-list {
     color: inherit;
     margin: 20px;
     list-style: none;
     text-align: center;
 }
-.price-items
-{
+
+.price-items {
     display: inline-block;
     font-family: inherit;
     font-weight: 400;
     font-size: inherit;
     line-height: 2em;
 }
-.price-h3
-{
+
+.price-h3 {
     color: #6858db;
     font-size: 26px;
     font-weight: 700;
@@ -515,8 +516,8 @@ h6 {
     margin-bottom: 25px;
     text-align: center;
 }
-.price-anchor
-{
+
+.price-anchor {
     border-radius: 50px;
     border: 1px solid #6858db;
     color: #6858db;
@@ -526,152 +527,190 @@ h6 {
     background-color: white;
     font-weight: 700;
 }
-.founder-section
-{
+
+.founder-section {
     width: 100%;
     background-color: white;
     padding-top: 80px;
 }
-.found-person
-{
+
+.found-person {
     width: 100%;
     overflow: auto;
     padding: 15px;
 }
-.person-cards
-{
+
+.person-cards {
     float: left;
     width: 25%;
     padding: 15px;
 }
-.per-cont
-{
+
+.per-cont {
     width: 100%;
-    box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     border-radius: 300px 300px 10px 10px;
     text-align: center;
 }
-.photo-team
-{
+
+.photo-team {
     border-radius: 100%;
-    
+
 }
-.photo-text
-{
+
+.photo-text {
     padding: 15px 15px;
     text-align: center;
 }
-.text-h4
-{
+
+.text-h4 {
     font-family: 'muli', sans-serif;
     font-weight: 700;
     font-size: 18px;
     margin-bottom: 3px;
     line-height: 1.6em;
 
-    
+
 }
-.text-h6
-{
-   font-family: 'muli', sans-serif;
+
+.text-h6 {
+    font-family: 'muli', sans-serif;
     font-weight: 400;
     font-size: 16px;
     color: #56576e;
 }
-.blog-section
-{
+
+.blog-section {
     width: 100%;
     position: relative;
     padding-top: 80px;
 }
-.blog-cont
-{
+
+.blog-cont {
     padding: 0px 15px;
     width: 100%;
     overflow: auto;
     margin: auto;
-    
+
 }
 
-.blog-arrow
-{
+.blog-arrow {
 
     padding: 10px;
     width: 6%;
     float: left;
     text-align: center;
     margin-top: 130px;
-/*    top: 100px;*/
-/*    left: 10px;*/
-/*    position: absolute;*/
-    
+    /*    top: 100px;*/
+    /*    left: 10px;*/
+    /*    position: absolute;*/
+
 }
 
-.blog-text
-{
+.blog-text {
     float: left;
     width: 88%;
-    
-    
+
+
 }
-.blog-pera
-{
+
+.blog-pera {
     width: 100%;
     padding: 50px 80px 50px 50px;
     margin: 30px auto;
-    font-family: 'muli' ,sans-serif;
-    box-shadow: 0px 0px  20px rgba(0,0,0,0.1);
+    font-family: 'muli', sans-serif;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     border-radius: 6px;
 
 }
-.pera-blog
-{
+
+.pera-blog {
     color: #56576e;
     font-size: 16px;
-    font-family: 'muli' , sans-serif;
+    font-family: 'muli', sans-serif;
     line-height: 1.6em;
     font-weight: 400;
     text-align: justify;
-    
+
 }
-.blog-spen
-{
+
+.blog-spen {
     color: #6858db;
     margin-top: 30px;
     text-align: left;
     margin-left: 40px;
-    
-    
+
+
 }
-.quote
-{
+
+.quote {
     color: #6858db;
     padding: 15px;
     font-size: 40px;
     float: left;
-    
-}
-.que-ans
-{
-    width: 50%;
-    float: left;
-    padding: 10px 15px;
-    
-}
-.que-ans-card
-{
-    width: 100%;
-    padding: 30px;
-    border-radius: 6px;
-    background-color: rgba(236, 234, 251, 0.3);
-     margin-bottom: 20px;
-}
-.qua-text
-{
-    font-size: 15px;
-    font-weight: 700;
-    font-family: 'muli' , sans-serif;
-    text-align: left;
-    
+
 }
 
+.que-section {
+    width: 100%;
+    padding: 80px 0px;
+    background-color: white;
+}
+
+.que-ans {
+    width: 50%;
+    float: left;
+    padding: 0px 15px;
+
+}
+
+.que-ans-card {
+    width: 100%;
+    padding: 25px;
+    border-radius: 6px;
+    background-color: rgba(236, 234, 251, 0.3);
+    margin-bottom: 20px;
+}
+
+.qua-text {
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'muli', sans-serif;
+    text-align: left;
+
+}
+
+.app-section {
+    width: 100%;
+    background-image: url(../images/download-bg.jpg);
+    background-size: 50%;
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.app-dow {
+    overflow: auto;
+    padding: 120px 0px;
+    width: 90%;
+    margin: auto;
+
+}
+
+.free-dow {
+    float: right;
+    width: 50%;
+    margin-left: 60px;
+
+
+}
+
+.app-txt {
+    font-size: 35px;
+    font-weight: 700;
+    color: #22233b;
+    text-align: left;
+    font-family: 'muli', sans-serif;
+}
