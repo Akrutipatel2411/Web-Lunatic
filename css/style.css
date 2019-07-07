@@ -731,8 +731,9 @@ h6 {
 {
     width: 100%;
     border: 1px solid #f2f2f2;
-    box-shadow: 0px 0px 10px 0 #f2f2f2;
+    box-shadow: 0px 0px 20px 0 #f2f2f2;
     border-radius: 6px;
+
 }
 .card-data
 {
@@ -756,4 +757,53 @@ h6 {
     font-size: 12px;
     color: #56576e;
     font-family: sans-serif;
+}
+.form-cont
+{
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+   
+}
+.name-email
+{
+     overflow: auto;
+     width: 100%;
+
+}
+.naming-form
+{
+   width: 50%;
+    float: left;
+    padding: 15px 15px 15px 0px;
+     margin-bottom: 20px;
+}
+.em
+{
+   padding: 15px 0px 15px 15px;  
+}
+.name-sec
+{
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #d2d2db;
+}
+.name-h5
+{
+    font-size: 14px;
+    color: #56576e;
+    padding: 18px 20px;
+    
+}
+.subject-form
+{
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #d2d2db;
+    margin-bottom: 20px;
+/*    padding: 15px;*/
+}
+.msg
+{
+    height: 120px;
 }
