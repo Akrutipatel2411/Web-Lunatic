@@ -27,7 +27,7 @@ h6 {
     padding: 0;
     color: #22233b;
     line-height: 1.4em;
-    font-family: 'muli' , sans-serif;
+    font-family: 'muli', sans-serif;
 
 }
 
@@ -709,121 +709,286 @@ h6 {
     text-align: left;
     font-family: 'muli', sans-serif;
 }
-.map-img
-{
+
+.map-img {
     width: 90%;
     margin: auto;
 }
-.lunablog-cont
-{
+
+.lunablog-cont {
     width: 100%;
     overflow: auto;
     padding: 15px;
-    
+
 }
-.luna-blog-card
-{
+
+.luna-blog-card {
     width: 33.33%;
     float: left;
     padding: 15px;
 }
-.luna-cards
-{
+
+.luna-cards {
     width: 100%;
     border: 1px solid #f2f2f2;
     box-shadow: 0px 0px 20px 0 #f2f2f2;
     border-radius: 6px;
 
 }
-.card-data
-{
+
+.card-data {
     padding: 30px 15px;
 }
-.card-h5
-{
+
+.card-h5 {
     font-size: 16px;
     font-weight: 700;
     margin-bottom: 15px;
-    
+
 }
-.blog-card
-{
+
+.blog-card {
     text-decoration: none;
     color: #56576e;
 }
-.blog-date
-{
+
+.blog-date {
     list-style: none;
     font-size: 12px;
     color: #56576e;
     font-family: sans-serif;
 }
-.form-cont
-{
+
+.form-cont {
     width: 80%;
     margin: auto;
     padding: 15px;
-   
-}
-.name-email
-{
-     overflow: auto;
-     width: 100%;
 
 }
-.naming-form
-{
-   width: 50%;
+
+.name-email {
+    overflow: auto;
+    width: 100%;
+
+}
+
+.naming-form {
+    width: 50%;
     float: left;
     padding: 15px 15px 15px 0px;
-     margin-bottom: 20px;
+    margin-bottom: 5px;
 }
-.em
-{
-   padding: 15px 0px 15px 15px;  
+
+.em {
+    padding: 15px 0px 15px 15px;
 }
-.name-sec
-{
+
+.name-sec {
     width: 100%;
     border-radius: 6px;
     border: 1px solid #d2d2db;
 }
-.name-h5
-{
+
+.name-h5 {
     font-size: 14px;
     color: #56576e;
     padding: 18px 20px;
     font-weight: lighter;
-    
+
 }
-.subject-form
-{
+
+.subject-form {
     width: 100%;
     border-radius: 6px;
     border: 1px solid #d2d2db;
     margin-bottom: 20px;
-/*    padding: 15px;*/
+    /*    padding: 15px;*/
 }
-.msg
-{
+
+.msg {
     height: 120px;
 }
-.contact-us
-{
 
-    
+.contact-us {
+
+
     text-align: center;
     margin-top: 40px;
- 
+
 }
-.cont-btn
-{
-    color:#6858db;
+
+.cont-btn {
+    color: #6858db;
     display: inline-block;
     font-weight: 700;
-    font-family: 'muli' ,sans-serif;
+    font-family: 'muli', sans-serif;
     padding: 20px 50px;
     text-decoration: none;
     border: 1px solid #6858db;
     border-radius: 100px;
 }
+
+.footer-sec {
+    width: 100%;
+    background-color: #f7f7f7;
+    padding: 80px 0px;
+
+}
+
+.foot {
+    float: left;
+    padding: 0px 20px;
+    
+}
+
+.foot-one {
+    width: 25%;
+}
+
+.foot-two {
+    width: 16.66%;
+}
+.foot-h4
+{
+   font-size: 18px;
+    margin-bottom: 30px;
+}
+.about-ul
+{
+    list-style: none;
+    margin-top: 30px;
+}
+.foot-about
+{
+    margin-bottom: 10px;
+}
+.foot-about-txt
+{
+    color: #56576e;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'muli' , sans-serif;
+    line-height: 1.6em;
+}
+
+.foot-last {
+    width: 33.33%;
+    position: relative;
+
+}
+
+.foot-icons
+{
+  margin-top: 20px;
+  list-style: none;
+
+}
+
+.soc-foot
+{
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+.sfb
+{
+    display: inline-block;
+}
+.foot-soc-icon
+{
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    padding-top: 12px;
+    
+    
+}
+.fb
+{
+    background-color:#3b5999;
+}
+.tw
+{
+    background-color: #55acee;
+}
+.g
+{
+    background-color:#dd4b39; 
+}
+.you
+{
+    background-color: #e4405f;
+}
+.cont-icon
+{
+  height: 30px;
+    width: 30px;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.cont-h4
+{
+    font-weight: bolder;
+    display: inline-block;
+    
+}
+
+.cont-data
+{
+
+    display: inline-block;
+    
+}
+.fcont
+{
+  color: #22233b;
+    line-height: 1.6em;
+    font-family: 'muli' , sans-serif;
+    font-family: 14px;
+    padding-left: 40px;
+    position: relative;
+    margin-bottom: 20PX;
+}
+.foot-email
+{
+   width: 100%; 
+    background-color: white;
+    border: 1px solid #6858db;
+    border-radius: 100px;
+    height: 60px;
+    margin-top: 30px;
+    position: relative;
+}
+.email-txt
+{
+    padding: 18px 30px;
+    font-size: 16px;
+    color: #56576e;
+    font-weight: lighter;
+    display: inline-block;
+
+}
+.email-bg
+{
+
+    top: 0;
+    right: 0;
+    position: absolute;
+    background-color: #6858db;
+    width: 80px;
+    height: 59px;
+    border-radius: 0px 100px 100px 0px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
