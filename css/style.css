@@ -44,6 +44,7 @@ h6 {
     background-size: cover;
     background-position: center;
     height: 100%;
+    position: relative;
 
 }
 
@@ -97,7 +98,9 @@ h6 {
 
 .head-text {
     width: 65%;
-    padding: 30px 20px
+    padding: 30px 20px;
+    top: 80px;
+    position: absolute;
 }
 
 .head-h5 {
@@ -121,7 +124,7 @@ h6 {
     font-family: 'Muli', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    padding-right: 100px;
+    padding-right: 32%;
     line-height: 1.6em;
 }
 
@@ -439,7 +442,7 @@ h6 {
 }
 
 .screen-set {
-    width: 300px;
+    width: 25%;
     float: left;
 }
 
@@ -713,6 +716,7 @@ h6 {
 .map-img {
     width: 90%;
     margin: auto;
+    text-align: center;
 }
 
 .lunablog-cont {
